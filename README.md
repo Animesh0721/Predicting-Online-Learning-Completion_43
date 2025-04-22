@@ -1,1 +1,1 @@
-# Predicting-Online-Learning-Completion_43
+In this project, we address the challenge of predicting the completion of online courses by analyzing learner activity logs. The task is framed as a binary classification problem — classifying learners into "Completed" or "Not Completed". Understanding such patterns can significantly improve course engagement strategies. Visualizations, particularly confusion matrices, will be used to interpret model performance
